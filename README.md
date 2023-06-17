@@ -1,1 +1,1 @@
-Pong made in Love2D
+Pong made with Love2D
